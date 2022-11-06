@@ -1,0 +1,7 @@
+com\example\app\page\Register.class
+com\example\app\page\Buy.class
+com\example\app\Calculator.class
+com\example\app\page\Logout.class
+com\example\app\drivers\AndroidDriverInit.class
+com\example\app\base\BasePageObject.class
+com\example\app\page\Login.class
